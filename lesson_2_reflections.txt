@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+ When we initialize a new repository , a hidden .git file is formed which stores meta data of all the files in the repository
+   can be started using git init
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  Staging area is an intermediary storage enabled by git to make incremental commit changes.
+   
